@@ -1,7 +1,7 @@
 [
     {
         "name": "WINK",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/wink.png",
+        "image": "wink.png",
         "download": "https://example.com/apk.apk"
     },
     {
@@ -16,12 +16,12 @@
     },
     {
         "name": "ANIMEPLAY",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/animeplay.png",
+        "image": "animeplay.png",
         "download": "https://example.com/apk4.apk"
     },
     {
-        "name": "APK 5",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
+        "name": "SPOTIFY",
+        "image": "spotify.png",
         "download": "https://example.com/apk5.apk"
     },
     {
