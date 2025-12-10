@@ -35,9 +35,9 @@
         "download": "https://sfl.gl/H7Dh"
     },
     {
-        "name": "APK 8",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk8.apk"
+        "name": "MELOLO",
+        "image": "melolo.png",
+        "download": "https://sfl.gl/PqM1c"
     },
     {
         "name": "APK 9",
@@ -86,6 +86,16 @@
     },
     {
         "name": "APK 18",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
+        "download": "https://example.com/apk18.apk"
+    },
+    {
+        "name": "APK 19",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
+        "download": "https://example.com/apk18.apk"
+    },
+    {
+        "name": "APK 20",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk18.apk"
     }
