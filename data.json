@@ -1,52 +1,52 @@
 [
     {
         "name": "WINK",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/wink.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/wink.png",
         "download": "https://example.com/apk.apk"
     },
     {
         "name": "ALIGHT MOTION",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/am.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/am.png",
         "download": "https://example.com/apk2.apk"
     },
     {
         "name": "CAPCUT",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/capcut.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/capcut.png",
         "download": "https://example.com/apk3.apk"
     },
     {
         "name": "ANIMEPLAY",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/animeplay.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/animeplay.png",
         "download": "https://example.com/apk4.apk"
     },
     {
         "name": "APK 5",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk5.apk"
     },
     {
         "name": "APK 6",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk6.apk"
     },
     {
         "name": "APK 7",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk7.apk"
     },
     {
         "name": "APK 8",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk8.apk"
     },
     {
         "name": "APK 9",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk9.apk"
     },
     {
         "name": "APK 10",
-        "image": "https://raw.githubusercontent.com/revedtz/Tess/main/tes.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk10.apk"
     }
 ]
