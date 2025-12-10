@@ -7,7 +7,7 @@
     {
         "name": "ALIGHT MOTION",
         "image": "am.png",
-        "download": "https://sfl.gl/Ytah78MV "
+        "download": "https://sfl.gl/Ytah78MV"
     },
     {
         "name": "CAPCUT",
@@ -48,40 +48,45 @@
         "name": "APK 10",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
         "download": "https://example.com/apk10.apk"
-    }
+    },
     {
-        "name": "APK 10",
+        "name": "APK 11",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    }
+        "download": "https://example.com/apk11.apk"
+    },
     {
-        "name": "APK 10",
+        "name": "APK 12",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    }
+        "download": "https://example.com/apk12.apk"
+    },
     {
-        "name": "APK 10",
+        "name": "APK 13",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    }
+        "download": "https://example.com/apk13.apk"
+    },
     {
-        "name": "APK 10",
+        "name": "APK 14",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    }
+        "download": "https://example.com/apk14.apk"
+    },
     {
-        "name": "APK 10",
+        "name": "APK 15",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    }
+        "download": "https://example.com/apk15.apk"
+    },
     {
-        "name": "APK 10",
+        "name": "APK 16",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    }
+        "download": "https://example.com/apk16.apk"
+    },
     {
-        "name": "APK 10",
+        "name": "APK 17",
         "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
+        "download": "https://example.com/apk17.apk"
+    },
+    {
+        "name": "APK 18",
+        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
+        "download": "https://example.com/apk18.apk"
     }
 ]
