@@ -1,102 +1,319 @@
 [
-    {
-        "name": "WINK",
-        "image": "wink.png",
-        "download": "https://sfl.gl/Yjyuxrn"
-    },
-    {
-        "name": "ALIGHT MOTION",
-        "image": "am.png",
-        "download": "https://sfl.gl/Ytah78MV"
-    },
-    {
-        "name": "CAPCUT",
-        "image": "capcut.png",
-        "download": "https://sfl.gl/MeMF6s"
-    },
-    {
-        "name": "ANIMEPLAY",
-        "image": "animeplay.png",
-        "download": "https://sfl.gl/MUp6wpUO"
-    },
-    {
-        "name": "SPOTIFY",
-        "image": "spotify.png",
-        "download": "https://sfl.gl/fAlzM"
-    },
-    {
-        "name": "PP CINE",
-        "image": "ppcine.png",
-        "download": "https://sfl.gl/q8702"
-    },
-    {
-        "name": "PURE STATUS",
-        "image": "pure.png",
-        "download": "https://sfl.gl/H7Dh"
-    },
-    {
-        "name": "MELOLO",
-        "image": "melolo.png",
-        "download": "https://sfl.gl/PqM1c"
-    },
-    {
-        "name": "KINEMASTER",
-        "image": "kinemaster.png",
-        "download": "https://sfl.gl/5djMC3la"
-    },
-    {
-        "name": "APK 10",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk10.apk"
-    },
-    {
-        "name": "APK 11",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk11.apk"
-    },
-    {
-        "name": "APK 12",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk12.apk"
-    },
-    {
-        "name": "APK 13",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk13.apk"
-    },
-    {
-        "name": "APK 14",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk14.apk"
-    },
-    {
-        "name": "APK 15",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk15.apk"
-    },
-    {
-        "name": "APK 16",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk16.apk"
-    },
-    {
-        "name": "APK 17",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk17.apk"
-    },
-    {
-        "name": "APK 18",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk18.apk"
-    },
-    {
-        "name": "APK 19",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk18.apk"
-    },
-    {
-        "name": "APK 20",
-        "image": "https://raw.githubusercontent.com/Revaleditz/Tes/main/tes.png",
-        "download": "https://example.com/apk18.apk"
-    }
+  {
+    "name": "WINK",
+    "image": "wink.png",
+    "version": "v4.3.1",
+    "size": "65 MB",
+    "updated": "10 Desember 2025",
+    "description": "WINK adalah aplikasi edit foto yang populer untuk membuat efek aesthetic, smoothing wajah, dan preset kekinian. Cocok untuk editing ala seleb TikTok.",
+    "features": [
+      "Filter Aesthetic Premium",
+      "Smooth Wajah HD",
+      "Color Tone Viral",
+      "Tanpa Watermark",
+      "Export 1080p"
+    ],
+    "download": "https://sfl.gl/Yjyuxrn"
+  },
+
+  {
+    "name": "ALIGHT MOTION",
+    "image": "am.png",
+    "version": "v5.0.200",
+    "size": "130 MB",
+    "updated": "8 Desember 2025",
+    "description": "Alight Motion adalah aplikasi edit video yang digunakan editor profesional. Versi mod ini sudah membuka fitur Pro dan tanpa watermark.",
+    "features": [
+      "Pro Unlocked",
+      "Tanpa Watermark",
+      "Preset XML Support",
+      "Motion Blur Premium",
+      "Export 60FPS"
+    ],
+    "download": "https://sfl.gl/Ytah78MV"
+  },
+
+  {
+    "name": "CAPCUT",
+    "image": "capcut.png",
+    "version": "v10.5.2",
+    "size": "95 MB",
+    "updated": "5 Desember 2025",
+    "description": "CapCut adalah aplikasi edit video lengkap dengan fitur AI, template viral, dan efek transisi premium.",
+    "features": [
+      "Template Viral",
+      "AI Enhance",
+      "Remove Background",
+      "No Watermark",
+      "Export 4K"
+    ],
+    "download": "https://sfl.gl/MeMF6s"
+  },
+
+  {
+    "name": "ANIMEPLAY",
+    "image": "animeplay.png",
+    "version": "v2.0",
+    "size": "20 MB",
+    "updated": "3 Desember 2025",
+    "description": "AnimePlay adalah aplikasi streaming anime subtitle Indonesia dengan server cepat dan tampilan ringan.",
+    "features": [
+      "Streaming Cepat",
+      "Subtitle Indonesia",
+      "Mode Hemat Kuota",
+      "Tanpa Iklan Mengganggu",
+      "Update Anime Baru"
+    ],
+    "download": "https://sfl.gl/MUp6wpUO"
+  },
+
+  {
+    "name": "SPOTIFY",
+    "image": "spotify.png",
+    "version": "v9.1.20",
+    "size": "60 MB",
+    "updated": "12 Desember 2025",
+    "description": "Spotify Mod adalah versi premium untuk mendengarkan musik tanpa iklan, skip tanpa batas, dan kualitas audio tinggi.",
+    "features": [
+      "Tanpa Iklan",
+      "Skip Unlimited",
+      "Audio Premium",
+      "Semua Lagu Terbuka",
+      "Tema Hitam Elegan"
+    ],
+    "download": "https://sfl.gl/fAlzM"
+  },
+
+  {
+    "name": "PP CINE",
+    "image": "ppcine.png",
+    "version": "v1.7",
+    "size": "25 MB",
+    "updated": "29 November 2025",
+    "description": "PPCine adalah aplikasi streaming film & drama terbaru dengan server cepat dan kualitas HD.",
+    "features": [
+      "Film & Drama Update",
+      "Kualitas HD",
+      "UI Ringan",
+      "Tanpa VPN",
+      "Subtitle Indonesia"
+    ],
+    "download": "https://sfl.gl/q8702"
+  },
+
+  {
+    "name": "PURE STATUS",
+    "image": "pure.png",
+    "version": "v3.2",
+    "size": "10 MB",
+    "updated": "25 November 2025",
+    "description": "Pure Status adalah aplikasi untuk membuat status WhatsApp aesthetic dan teks animasi.",
+    "features": [
+      "Teks Bergerak",
+      "Template Status",
+      "Export Full HD",
+      "Tanpa Watermark",
+      "UI Minimalis"
+    ],
+    "download": "https://sfl.gl/H7Dh"
+  },
+
+  {
+    "name": "MELOLO",
+    "image": "melolo.png",
+    "version": "v6.1",
+    "size": "30 MB",
+    "updated": "30 November 2025",
+    "description": "Melolo adalah aplikasi edit foto lucu dan imut dengan efek stiker dan filter karakter anime.",
+    "features": [
+      "Stiker Imut",
+      "Filter Cartoon",
+      "HSL Full",
+      "Template Viral",
+      "Tanpa Watermark"
+    ],
+    "download": "https://sfl.gl/PqM1c"
+  },
+
+  {
+    "name": "KINEMASTER",
+    "image": "kinemaster.png",
+    "version": "v7.5.0",
+    "size": "100 MB",
+    "updated": "15 Desember 2025",
+    "description": "KineMaster Pro adalah aplikasi edit video profesional dengan fitur premium yang sudah terbuka.",
+    "features": [
+      "Full Premium",
+      "Tanpa Watermark",
+      "Layer Tak Terbatas",
+      "Chromakey Green Screen",
+      "Export 4K 60FPS"
+    ],
+    "download": "https://sfl.gl/5djMC3la"
+  },
+
+  {
+    "name": "APK 10",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi mod premium dengan fitur lengkap.",
+    "features": [
+      "Premium Unlock",
+      "UI Ringan",
+      "Hemat Data"
+    ],
+    "download": "https://example.com/apk10.apk"
+  },
+
+  {
+    "name": "APK 11",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi mod premium versi terbaru.",
+    "features": [
+      "Fitur Lengkap",
+      "Performa Cepat",
+      "Tanpa Iklan"
+    ],
+    "download": "https://example.com/apk11.apk"
+  },
+
+  {
+    "name": "APK 12",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi mod khusus dengan fitur tambahan.",
+    "features": [
+      "Mod Stabil",
+      "Ringan",
+      "Support Android"
+    ],
+    "download": "https://example.com/apk12.apk"
+  },
+
+  {
+    "name": "APK 13",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi versi modifikasi terbaik.",
+    "features": [
+      "Premium Full",
+      "Tanpa Batas",
+      "Support Offline"
+    ],
+    "download": "https://example.com/apk13.apk"
+  },
+
+  {
+    "name": "APK 14",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi mod ringan dan cepat.",
+    "features": [
+      "UI Simple",
+      "Fast Load",
+      "Unlocked"
+    ],
+    "download": "https://example.com/apk14.apk"
+  },
+
+  {
+    "name": "APK 15",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi dengan fitur premium terbuka.",
+    "features": [
+      "Full Unlock",
+      "Tanpa Iklan",
+      "Kinerja Stabil"
+    ],
+    "download": "https://example.com/apk15.apk"
+  },
+
+  {
+    "name": "APK 16",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Mod APK dengan fitur ekstra.",
+    "features": [
+      "Unlimited",
+      "Fast Run",
+      "Ringan"
+    ],
+    "download": "https://example.com/apk16.apk"
+  },
+
+  {
+    "name": "APK 17",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi modifikasi terbaru.",
+    "features": [
+      "Full Fitur",
+      "Tanpa Lag",
+      "UI Bersih"
+    ],
+    "download": "https://example.com/apk17.apk"
+  },
+
+  {
+    "name": "APK 18",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi mod all unlocked.",
+    "features": [
+      "Unlock All",
+      "Stabil",
+      "Support Banyak Device"
+    ],
+    "download": "https://example.com/apk18.apk"
+  },
+
+  {
+    "name": "APK 19",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi versi full mod.",
+    "features": [
+      "Premium Aktif",
+      "UI Smooth",
+      "Kecepatan Maksimal"
+    ],
+    "download": "https://example.com/apk18.apk"
+  },
+
+  {
+    "name": "APK 20",
+    "image": "tes.png",
+    "version": "v1.0",
+    "size": "15 MB",
+    "updated": "1 Desember 2025",
+    "description": "Aplikasi mod with extra tools.",
+    "features": [
+      "Fitur Pro",
+      "Tanpa Watermark",
+      "Support 100%"
+    ],
+    "download": "https://example.com/apk18.apk"
+  }
 ]
