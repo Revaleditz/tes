@@ -222,5 +222,77 @@
     "avatar": "kaja.png",
     "download_default": "https://link-default-fredrinn",
     "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 29,
+    "name": "Aamon",
+    "role": "Assassin",
+    "avatar": "aamon.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 30,
+    "name": "Akai",
+    "role": "Tank",
+    "avatar": "akai.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 31,
+    "name": "Alice",
+    "role": "Mage",
+    "avatar": "alice.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 31,
+    "name": "Atlas",
+    "role": "Tank",
+    "avatar": "atlas.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 32,
+    "name": "Aulus",
+    "role": "Fighter",
+    "avatar": "aulus.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 33,
+    "name": "Aurora",
+    "role": "Mage",
+    "avatar": "aurora.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 34,
+    "name": "Arlott",
+    "role": "Fighter",
+    "avatar": "arlott.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 35,
+    "name": "Badang",
+    "role": "Fighter",
+    "avatar": "badang.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 36,
+    "name": "Bane",
+    "role": "Tank / Fighter",
+    "avatar": "bane.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
   }
 ]
