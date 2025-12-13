@@ -3,180 +3,224 @@
     "hero_id": 1,
     "name": "Alucard",
     "role": "Fighter / Assassin",
-    "lane": "Jungle",
     "avatar": "alucard.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-alucard",
+    "download_script": "https://link-script-alucard"
   },
   {
     "hero_id": 2,
     "name": "Miya",
     "role": "Marksman",
-    "lane": "Gold Lane",
     "avatar": "miya.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-miya",
+    "download_script": "https://link-script-miya"
   },
   {
     "hero_id": 3,
     "name": "Layla",
     "role": "Marksman",
-    "lane": "Gold Lane",
     "avatar": "layla.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-layla",
+    "download_script": "https://link-script-layla"
   },
   {
     "hero_id": 4,
     "name": "Saber",
     "role": "Assassin",
-    "lane": "Jungle",
     "avatar": "saber.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-saber",
+    "download_script": "https://link-script-saber"
   },
   {
     "hero_id": 5,
     "name": "Eudora",
     "role": "Mage",
-    "lane": "Mid Lane",
     "avatar": "eudora.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-eudora",
+    "download_script": "https://link-script-eudora"
   },
   {
     "hero_id": 6,
     "name": "Zilong",
     "role": "Fighter / Assassin",
-    "lane": "EXP Lane",
     "avatar": "zilong.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-zilong",
+    "download_script": "https://link-script-zilong"
   },
   {
     "hero_id": 7,
     "name": "Balmond",
     "role": "Fighter / Tank",
-    "lane": "EXP Lane",
     "avatar": "balmond.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-balmond",
+    "download_script": "https://link-script-balmond"
   },
   {
     "hero_id": 8,
     "name": "Gusion",
     "role": "Assassin",
-    "lane": "Jungle / Mid Lane",
     "avatar": "gusion.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-gusion",
+    "download_script": "https://link-script-gusion"
   },
   {
     "hero_id": 9,
     "name": "Lancelot",
     "role": "Assassin",
-    "lane": "Jungle",
     "avatar": "lancelot.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-lancelot",
+    "download_script": "https://link-script-lancelot"
   },
   {
     "hero_id": 10,
     "name": "Hayabusa",
     "role": "Assassin",
-    "lane": "Jungle",
     "avatar": "hayabusa.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-hayabusa",
+    "download_script": "https://link-script-hayabusa"
   },
   {
     "hero_id": 11,
     "name": "Chou",
     "role": "Fighter",
-    "lane": "EXP Lane",
     "avatar": "chou.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-chou",
+    "download_script": "https://link-script-chou"
   },
   {
     "hero_id": 12,
     "name": "Angela",
     "role": "Support",
-    "lane": "Roamer",
     "avatar": "angela.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-angela",
+    "download_script": "https://link-script-angela"
   },
   {
     "hero_id": 13,
     "name": "Franco",
     "role": "Tank",
-    "lane": "Roamer",
     "avatar": "franco.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-franco",
+    "download_script": "https://link-script-franco"
   },
   {
     "hero_id": 14,
     "name": "Johnson",
     "role": "Tank",
-    "lane": "Roamer",
     "avatar": "johnson.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-johnson",
+    "download_script": "https://link-script-johnson"
   },
   {
     "hero_id": 15,
     "name": "Kagura",
     "role": "Mage",
-    "lane": "Mid Lane",
     "avatar": "kagura.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-kagura",
+    "download_script": "https://link-script-kagura"
   },
   {
     "hero_id": 16,
     "name": "Valir",
     "role": "Mage",
-    "lane": "Mid Lane",
     "avatar": "valir.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-valir",
+    "download_script": "https://link-script-valir"
   },
   {
     "hero_id": 17,
     "name": "Yu Zhong",
     "role": "Fighter",
-    "lane": "EXP Lane",
     "avatar": "yuzhong.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-yuzhong",
+    "download_script": "https://link-script-yuzhong"
   },
   {
     "hero_id": 18,
     "name": "Paquito",
     "role": "Fighter",
-    "lane": "EXP Lane",
     "avatar": "paquito.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-paquito",
+    "download_script": "https://link-script-paquito"
   },
   {
     "hero_id": 19,
     "name": "Beatrix",
     "role": "Marksman",
-    "lane": "Gold Lane",
     "avatar": "beatrix.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-beatrix",
+    "download_script": "https://link-script-beatrix"
   },
   {
     "hero_id": 20,
     "name": "Fredrinn",
     "role": "Tank / Fighter",
-    "lane": "Jungle",
     "avatar": "fredrinn.png",
-    "download_default": "https://example.com/ml-default-skin.zip",
-    "download_script": "https://example.com/ml-script-skin.zip"
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 21,
+    "name": "Ruby",
+    "role": "Fighter",
+    "avatar": "ruby.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 22,
+    "name": "Silvanna",
+    "role": "Fighter",
+    "avatar": "silvanna.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 23,
+    "name": "Alpha",
+    "role": "Fighter",
+    "avatar": "alpha.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 24,
+    "name": "Argus",
+    "role": "Fighter",
+    "avatar": "argus.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 25,
+    "name": "Masha",
+    "role": "Fighter",
+    "avatar": "masha.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 26,
+    "name": "Martis",
+    "role": "Fighter",
+    "avatar": "martis.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 27,
+    "name": "Aldous",
+    "role": "Fighter",
+    "avatar": "aldous.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 28,
+    "name": "Kaja",
+    "role": "Fighter",
+    "avatar": "kaja.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
   }
 ]
