@@ -1,16 +1,45 @@
 [
   {
-    "name": "GTA SA Mod",
+    "name": "GTA SA Mod Indonesia",
     "image": "gta.png",
-    "version": "v2.0",
-    "size": "300MB",
-    "download": "https://sfl.gl/gta-mod"
+    "version": "v2.10",
+    "size": "350 MB",
+    "updated": "14 Des 2025",
+    "description": "GTA San Andreas versi MOD dengan map Indonesia, kendaraan unlocked, dan grafis ditingkatkan.",
+    "features": [
+      "Unlimited Money",
+      "All Vehicle Unlocked",
+      "Map Indonesia",
+      "No Ads"
+    ],
+    "download": "https://sfl.gl/gta-sa-mod"
   },
   {
-    "name": "Naruto Ninja Storm Mod",
-    "image": "naruto.png",
-    "version": "v1.5",
-    "size": "250MB",
-    "download": "https://sfl.gl/naruto-mod"
+    "name": "Mobile Legends Mod Menu",
+    "image": "ml.png",
+    "version": "v1.8",
+    "size": "180 MB",
+    "updated": "10 Des 2025",
+    "description": "Mobile Legends versi mod dengan tampilan custom dan fitur tambahan.",
+    "features": [
+      "Drone View",
+      "Unlock Skin (Visual)",
+      "No Cooldown"
+    ],
+    "download": "https://sfl.gl/ml-mod"
+  },
+  {
+    "name": "Minecraft PE Mod",
+    "image": "mc.png",
+    "version": "v1.21",
+    "size": "250 MB",
+    "updated": "8 Des 2025",
+    "description": "Minecraft Pocket Edition dengan mod shader realistis dan item unlocked.",
+    "features": [
+      "Shader Realistis",
+      "Unlimited Item",
+      "FPS Boost"
+    ],
+    "download": "https://sfl.gl/minecraft-mod"
   }
 ]
