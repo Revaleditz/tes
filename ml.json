@@ -6,13 +6,13 @@
       {
         "name": "Obsidian Blade",
         "type": "Epic",
-        "image": "alucard_obsidian.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/alucard_obsidian.png",
         "download": "https://sfl.gl/alucard-obsidian"
       },
       {
         "name": "Child of the Fall",
         "type": "Special",
-        "image": "alucard_child.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/alucard_child.png",
         "download": "https://sfl.gl/alucard-child"
       }
     ]
@@ -24,13 +24,13 @@
       {
         "name": "Cosmic Gleam",
         "type": "Legend",
-        "image": "gusion_cosmic.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/gusion_cosmic.png",
         "download": "https://sfl.gl/gusion-cosmic"
       },
       {
         "name": "Cyber Ops",
         "type": "Epic",
-        "image": "gusion_cyber.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/gusion_cyber.png",
         "download": "https://sfl.gl/gusion-cyber"
       }
     ]
@@ -42,13 +42,13 @@
       {
         "name": "Bunny Babe",
         "type": "Elite",
-        "image": "layla_bunny.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/layla_bunny.png",
         "download": "https://sfl.gl/layla-bunny"
       },
       {
         "name": "Miss Hikari",
         "type": "Epic",
-        "image": "layla_hikari.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/layla_hikari.png",
         "download": "https://sfl.gl/layla-hikari"
       }
     ]
@@ -60,13 +60,13 @@
       {
         "name": "Dragon Boy",
         "type": "Epic",
-        "image": "chou_dragon.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/chou_dragon.png",
         "download": "https://sfl.gl/chou-dragon"
       },
       {
         "name": "Iori Yagami",
         "type": "Collaboration",
-        "image": "chou_iori.png",
+        "image": "https://raw.githubusercontent.com/Revaleditz/tes/main/imgml/chou_iori.png",
         "download": "https://sfl.gl/chou-iori"
       }
     ]
