@@ -1,45 +1,182 @@
 [
   {
-    "name": "GTA SA Mod Indonesia",
-    "image": "gta.png",
-    "version": "v2.10",
-    "size": "350 MB",
-    "updated": "14 Des 2025",
-    "description": "GTA San Andreas versi MOD dengan map Indonesia, kendaraan unlocked, dan grafis ditingkatkan.",
-    "features": [
-      "Unlimited Money",
-      "All Vehicle Unlocked",
-      "Map Indonesia",
-      "No Ads"
-    ],
-    "download": "https://sfl.gl/gta-sa-mod"
+    "hero_id": 1,
+    "name": "Alucard",
+    "role": "Fighter / Assassin",
+    "lane": "Jungle",
+    "avatar": "alucard.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
   },
   {
-    "name": "Mobile Legends Mod Menu",
-    "image": "ml.png",
-    "version": "v1.8",
-    "size": "180 MB",
-    "updated": "10 Des 2025",
-    "description": "Mobile Legends versi mod dengan tampilan custom dan fitur tambahan.",
-    "features": [
-      "Drone View",
-      "Unlock Skin (Visual)",
-      "No Cooldown"
-    ],
-    "download": "https://sfl.gl/ml-mod"
+    "hero_id": 2,
+    "name": "Miya",
+    "role": "Marksman",
+    "lane": "Gold Lane",
+    "avatar": "miya.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
   },
   {
-    "name": "Minecraft PE Mod",
-    "image": "mc.png",
-    "version": "v1.21",
-    "size": "250 MB",
-    "updated": "8 Des 2025",
-    "description": "Minecraft Pocket Edition dengan mod shader realistis dan item unlocked.",
-    "features": [
-      "Shader Realistis",
-      "Unlimited Item",
-      "FPS Boost"
-    ],
-    "download": "https://sfl.gl/minecraft-mod"
+    "hero_id": 3,
+    "name": "Layla",
+    "role": "Marksman",
+    "lane": "Gold Lane",
+    "avatar": "layla.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 4,
+    "name": "Saber",
+    "role": "Assassin",
+    "lane": "Jungle",
+    "avatar": "saber.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 5,
+    "name": "Eudora",
+    "role": "Mage",
+    "lane": "Mid Lane",
+    "avatar": "eudora.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 6,
+    "name": "Zilong",
+    "role": "Fighter / Assassin",
+    "lane": "EXP Lane",
+    "avatar": "zilong.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 7,
+    "name": "Balmond",
+    "role": "Fighter / Tank",
+    "lane": "EXP Lane",
+    "avatar": "balmond.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 8,
+    "name": "Gusion",
+    "role": "Assassin",
+    "lane": "Jungle / Mid Lane",
+    "avatar": "gusion.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 9,
+    "name": "Lancelot",
+    "role": "Assassin",
+    "lane": "Jungle",
+    "avatar": "lancelot.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 10,
+    "name": "Hayabusa",
+    "role": "Assassin",
+    "lane": "Jungle",
+    "avatar": "hayabusa.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 11,
+    "name": "Chou",
+    "role": "Fighter",
+    "lane": "EXP Lane",
+    "avatar": "chou.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 12,
+    "name": "Angela",
+    "role": "Support",
+    "lane": "Roamer",
+    "avatar": "angela.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 13,
+    "name": "Franco",
+    "role": "Tank",
+    "lane": "Roamer",
+    "avatar": "franco.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 14,
+    "name": "Johnson",
+    "role": "Tank",
+    "lane": "Roamer",
+    "avatar": "johnson.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 15,
+    "name": "Kagura",
+    "role": "Mage",
+    "lane": "Mid Lane",
+    "avatar": "kagura.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 16,
+    "name": "Valir",
+    "role": "Mage",
+    "lane": "Mid Lane",
+    "avatar": "valir.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 17,
+    "name": "Yu Zhong",
+    "role": "Fighter",
+    "lane": "EXP Lane",
+    "avatar": "yuzhong.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 18,
+    "name": "Paquito",
+    "role": "Fighter",
+    "lane": "EXP Lane",
+    "avatar": "paquito.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 19,
+    "name": "Beatrix",
+    "role": "Marksman",
+    "lane": "Gold Lane",
+    "avatar": "beatrix.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
+  },
+  {
+    "hero_id": 20,
+    "name": "Fredrinn",
+    "role": "Tank / Fighter",
+    "lane": "Jungle",
+    "avatar": "fredrinn.png",
+    "download_default": "https://example.com/ml-default-skin.zip",
+    "download_script": "https://example.com/ml-script-skin.zip"
   }
 ]
