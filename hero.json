@@ -294,5 +294,53 @@
     "avatar": "bane.png",
     "download_default": "https://link-default-fredrinn",
     "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 37,
+    "name": "Barats",
+    "role": "Tank / Fighter",
+    "avatar": "barats.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 38,
+    "name": "Baxia",
+    "role": "Tank",
+    "avatar": "baxia.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 39,
+    "name": "Belerick",
+    "role": "Tank",
+    "avatar": "belerick.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 40,
+    "name": "Benedetta",
+    "role": "Assassin",
+    "avatar": "benedetta.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 40,
+    "name": "Brody",
+    "role": "Marksman",
+    "avatar": "Brody.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
+  },
+  {
+    "hero_id": 20,
+    "name": "Fredrinn",
+    "role": "Tank / Fighter",
+    "avatar": "fredrinn.png",
+    "download_default": "https://link-default-fredrinn",
+    "download_script": "https://link-script-fredrinn"
   }
 ]
