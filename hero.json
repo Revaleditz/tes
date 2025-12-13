@@ -4,343 +4,59 @@
     "name": "Alucard",
     "role": "Fighter / Assassin",
     "avatar": "alucard.png",
-    "download_default": "https://link-default-alucard",
-    "download_script": "https://link-script-alucard"
+    "skins": [
+      {
+        "name": "Default",
+        "download": "https://link-default-alucard"
+      },
+      {
+        "name": "Night Hunter",
+        "download": "https://link-skin1-alucard"
+      },
+      {
+        "name": "Vampire Slayer",
+        "download": "https://link-skin2-alucard"
+      }
+    ]
   },
   {
     "hero_id": 2,
     "name": "Miya",
     "role": "Marksman",
     "avatar": "miya.png",
-    "download_default": "https://link-default-miya",
-    "download_script": "https://link-script-miya"
+    "skins": [
+      {
+        "name": "Default",
+        "download": "https://link-default-miya"
+      },
+      {
+        "name": "Moonlight Archer",
+        "download": "https://link-skin1-miya"
+      },
+      {
+        "name": "Starlight Guardian",
+        "download": "https://link-skin2-miya"
+      }
+    ]
   },
   {
     "hero_id": 3,
     "name": "Layla",
     "role": "Marksman",
     "avatar": "layla.png",
-    "download_default": "https://link-default-layla",
-    "download_script": "https://link-script-layla"
-  },
-  {
-    "hero_id": 4,
-    "name": "Saber",
-    "role": "Assassin",
-    "avatar": "saber.png",
-    "download_default": "https://link-default-saber",
-    "download_script": "https://link-script-saber"
-  },
-  {
-    "hero_id": 5,
-    "name": "Eudora",
-    "role": "Mage",
-    "avatar": "eudora.png",
-    "download_default": "https://link-default-eudora",
-    "download_script": "https://link-script-eudora"
-  },
-  {
-    "hero_id": 6,
-    "name": "Zilong",
-    "role": "Fighter / Assassin",
-    "avatar": "zilong.png",
-    "download_default": "https://link-default-zilong",
-    "download_script": "https://link-script-zilong"
-  },
-  {
-    "hero_id": 7,
-    "name": "Balmond",
-    "role": "Fighter / Tank",
-    "avatar": "balmond.png",
-    "download_default": "https://link-default-balmond",
-    "download_script": "https://link-script-balmond"
-  },
-  {
-    "hero_id": 8,
-    "name": "Gusion",
-    "role": "Assassin",
-    "avatar": "gusion.png",
-    "download_default": "https://link-default-gusion",
-    "download_script": "https://link-script-gusion"
-  },
-  {
-    "hero_id": 9,
-    "name": "Lancelot",
-    "role": "Assassin",
-    "avatar": "lancelot.png",
-    "download_default": "https://link-default-lancelot",
-    "download_script": "https://link-script-lancelot"
-  },
-  {
-    "hero_id": 10,
-    "name": "Hayabusa",
-    "role": "Assassin",
-    "avatar": "hayabusa.png",
-    "download_default": "https://link-default-hayabusa",
-    "download_script": "https://link-script-hayabusa"
-  },
-  {
-    "hero_id": 11,
-    "name": "Chou",
-    "role": "Fighter",
-    "avatar": "chou.png",
-    "download_default": "https://link-default-chou",
-    "download_script": "https://link-script-chou"
-  },
-  {
-    "hero_id": 12,
-    "name": "Angela",
-    "role": "Support",
-    "avatar": "angela.png",
-    "download_default": "https://link-default-angela",
-    "download_script": "https://link-script-angela"
-  },
-  {
-    "hero_id": 13,
-    "name": "Franco",
-    "role": "Tank",
-    "avatar": "franco.png",
-    "download_default": "https://link-default-franco",
-    "download_script": "https://link-script-franco"
-  },
-  {
-    "hero_id": 14,
-    "name": "Johnson",
-    "role": "Tank",
-    "avatar": "johnson.png",
-    "download_default": "https://link-default-johnson",
-    "download_script": "https://link-script-johnson"
-  },
-  {
-    "hero_id": 15,
-    "name": "Kagura",
-    "role": "Mage",
-    "avatar": "kagura.png",
-    "download_default": "https://link-default-kagura",
-    "download_script": "https://link-script-kagura"
-  },
-  {
-    "hero_id": 16,
-    "name": "Valir",
-    "role": "Mage",
-    "avatar": "valir.png",
-    "download_default": "https://link-default-valir",
-    "download_script": "https://link-script-valir"
-  },
-  {
-    "hero_id": 17,
-    "name": "Yu Zhong",
-    "role": "Fighter",
-    "avatar": "yuzhong.png",
-    "download_default": "https://link-default-yuzhong",
-    "download_script": "https://link-script-yuzhong"
-  },
-  {
-    "hero_id": 18,
-    "name": "Paquito",
-    "role": "Fighter",
-    "avatar": "paquito.png",
-    "download_default": "https://link-default-paquito",
-    "download_script": "https://link-script-paquito"
-  },
-  {
-    "hero_id": 19,
-    "name": "Beatrix",
-    "role": "Marksman",
-    "avatar": "beatrix.png",
-    "download_default": "https://link-default-beatrix",
-    "download_script": "https://link-script-beatrix"
-  },
-  {
-    "hero_id": 20,
-    "name": "Fredrinn",
-    "role": "Tank / Fighter",
-    "avatar": "fredrinn.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 21,
-    "name": "Ruby",
-    "role": "Fighter",
-    "avatar": "ruby.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 22,
-    "name": "Silvanna",
-    "role": "Fighter",
-    "avatar": "silvanna.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 23,
-    "name": "Alpha",
-    "role": "Fighter",
-    "avatar": "alpha.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 24,
-    "name": "Argus",
-    "role": "Fighter",
-    "avatar": "argus.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 25,
-    "name": "Masha",
-    "role": "Fighter",
-    "avatar": "masha.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 26,
-    "name": "Martis",
-    "role": "Fighter",
-    "avatar": "martis.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 27,
-    "name": "Aldous",
-    "role": "Fighter",
-    "avatar": "aldous.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 28,
-    "name": "Kaja",
-    "role": "Fighter",
-    "avatar": "kaja.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 29,
-    "name": "Aamon",
-    "role": "Assassin",
-    "avatar": "aamon.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 30,
-    "name": "Akai",
-    "role": "Tank",
-    "avatar": "akai.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 31,
-    "name": "Alice",
-    "role": "Mage",
-    "avatar": "alice.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 31,
-    "name": "Atlas",
-    "role": "Tank",
-    "avatar": "atlas.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 32,
-    "name": "Aulus",
-    "role": "Fighter",
-    "avatar": "aulus.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 33,
-    "name": "Aurora",
-    "role": "Mage",
-    "avatar": "aurora.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 34,
-    "name": "Arlott",
-    "role": "Fighter",
-    "avatar": "arlott.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 35,
-    "name": "Badang",
-    "role": "Fighter",
-    "avatar": "badang.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 36,
-    "name": "Bane",
-    "role": "Tank / Fighter",
-    "avatar": "bane.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 37,
-    "name": "Barats",
-    "role": "Tank / Fighter",
-    "avatar": "barats.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 38,
-    "name": "Baxia",
-    "role": "Tank",
-    "avatar": "baxia.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 39,
-    "name": "Belerick",
-    "role": "Tank",
-    "avatar": "belerick.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 40,
-    "name": "Benedetta",
-    "role": "Assassin",
-    "avatar": "benedetta.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 40,
-    "name": "Brody",
-    "role": "Marksman",
-    "avatar": "Brody.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
-  },
-  {
-    "hero_id": 20,
-    "name": "Fredrinn",
-    "role": "Tank / Fighter",
-    "avatar": "fredrinn.png",
-    "download_default": "https://link-default-fredrinn",
-    "download_script": "https://link-script-fredrinn"
+    "skins": [
+      {
+        "name": "Default",
+        "download": "https://link-default-layla"
+      },
+      {
+        "name": "Mega Gunner",
+        "download": "https://link-skin1-layla"
+      },
+      {
+        "name": "Starlight Shooter",
+        "download": "https://link-skin2-layla"
+      }
+    ]
   }
 ]
