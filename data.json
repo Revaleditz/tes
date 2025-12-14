@@ -217,25 +217,26 @@
     "download": "https://sfl.gl/VFzqY7"
   },
   {
-    "name": "APK 15",
-    "image": "tes.png",
-    "version": "v1.0",
-    "size": "15 MB",
-    "updated": "1 Desember 2025",
-    "category": "Lain-lain",
-    "description": "Aplikasi dengan fitur premium terbuka.",
+    "name": "NGL",
+    "image": "ngl.png",
+    "version": "v2.5.6",
+    "size": "64,85 MB",
+    "updated": "15 Desember 2025",
+    "category": "Sosial Media",
+    "description": "Aplikasi Pesan Anonim.",
     "features": [
-      "Full Unlock",
+      "Premium",
       "Tanpa Iklan",
-      "Kinerja Stabil"
+      "Full Unlock",
+      "Lifetime"
     ],
-    "download": "https://example.com/apk15.apk"
+    "download": "https://sfl.gl/PzKLUpUU"
   },
   {
     "name": "APK 16",
     "image": "tes.png",
     "version": "v1.0",
-    "size": "15 MB",
+    "size": "0 MB",
     "updated": "1 Desember 2025",
     "category": "Lain-lain",
     "description": "Mod APK dengan fitur ekstra.",
