@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "date": "2025-12-15",
-        "title": "Update Aplikasi Penting Bulan Desember",
+        "date": "2025-30-01",
+        "title": "Update Penting AKHIR TAHUN",
         "category": "Major Update",
         "content": [
             "Kami telah merilis pembaruan besar untuk beberapa aplikasi populer, terutama di kategori Editor Video dan Games.",
             "Berikut adalah daftar perubahan penting:",
-            "<ul><li>**Alight Motion Premium v5.2:** Update stabilitas dan fitur ekspor 4K tanpa *watermark* yang lebih cepat.</li><li>**CapCut Pro v9.8:** Penambahan template baru dan perbaikan *bug* saat *login* menggunakan akun Google.</li><li>**Mobile Legends MOD v1.7:** Update ke versi terbaru dengan fitur *Map Hack* yang lebih aman (anti-banned).</li></ul>"
+            "<ul><li>WEB akan di perbanyak aplikasinya agar tidak terlalu sedikit</li><li>MENGHAPUS atau MENGUPDATE web agar lebih baik dan berfungsi dengan benar</li><li>MEMPERBANYAK tools atau web berguna</li></ul>"
         ]
     },
     {
         "id": 2,
-        "date": "2025-12-10",
-        "title": "Perubahan Navigasi Web",
+        "date": "2025-01-01",
+        "title": "Perubahan TAMPILAN web",
         "category": "Website Info",
         "content": [
-            "Kami menyederhanakan navigasi web menjadi 3 halaman utama: Home, Berita, dan Tentang untuk pengalaman yang lebih fokus dan ringan.",
-            "Semua *tools* lama telah dihapus untuk meningkatkan performa halaman utama."
+            "Kami akan mengubah tampilan atau temanya, agar lebih baik dan lebih mewah",
+            "menambahkan tools tools berguna"
         ]
     }
 ]
