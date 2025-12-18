@@ -292,18 +292,29 @@
     "download": "https://sfl.gl/LyXx8"
   },
   {
-    "name": "APK 20",
-    "image": "tes.png",
-    "version": "v1.0",
-    "size": "15 MB",
-    "updated": "1 Desember 2025",
-    "category": "Lain-lain",
-    "description": "Aplikasi mod with extra tools.",
+    "name": "WIBUKU",
+    "image": "wibuku.png",
+    "version": "v1.0.6",
+    "size": "7,28 MB",
+    "updated": "19 Desember 2025",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi Untuk Menonton Anime.",
     "features": [
-      "Fitur Pro",
-      "Tanpa Watermark",
-      "Support 100%"
+      "Fitur Premium"
     ],
-    "download": "https://example.com/apk18.apk"
+    "download": "https://sfl.gl/UWCDz"
+  },
+  {
+    "name": "WIBUKU",
+    "image": "wibuku.png",
+    "version": "v1.0.6",
+    "size": "7,28 MB",
+    "updated": "19 Desember 2025",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi Untuk Menonton Anime.",
+    "features": [
+      "Fitur Premium"
+    ],
+    "download": "https://sfl.gl/UWCDz"
   }
 ]
