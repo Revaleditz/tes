@@ -329,5 +329,20 @@
       "No Ads"
     ],
     "download": "https://sfl.gl/H3IbQc6"
+  },
+  {
+    "name": "ANIME GO",
+    "image": "animego.png",
+    "version": "v2.36.46",
+    "size": "9.97 MB",
+    "updated": "26 Desember 2025",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi nonton anime dan konten video lainnya.",
+    "features": [
+      "Premium",
+      "Tanpa Iklan",
+      "Support Banyak Device"
+    ],
+    "download": "https://sfl.gl/Fd3lGh"
   }
 ]
