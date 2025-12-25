@@ -316,5 +316,18 @@
       "Fitur GOLD Terbuka"
     ],
     "download": "https://sfl.gl/LMsUYs2s"
+  },
+  {
+    "name": "KLTRATV",
+    "image": "kltratv.png",
+    "version": "v1.7.1",
+    "size": "22.40 MB",
+    "updated": "25 Desember 2025",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi nonton siaran Tv.",
+    "features": [
+      "No Ads"
+    ],
+    "download": "https://sfl.gl/H3IbQc6"
   }
 ]
