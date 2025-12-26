@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CapCut Pro",
+    "category": "Video Editor VIP",
+    "description": "CapCut premium unlocked, tanpa watermark, semua efek terbuka.",
+    "image": "capcut.png",
+    "download": "https://example.com/download/capcut-pro"
+  },
+  {
+    "name": "Alight Motion Pro",
+    "category": "Motion Graphics VIP",
+    "description": "No watermark, export 4K, semua preset aktif.",
+    "image": "alightmotion.png",
+    "download": "https://example.com/download/alight-motion-pro"
+  },
+  {
+    "name": "Spotify Premium",
+    "category": "Music VIP",
+    "description": "Tanpa iklan, skip unlimited, kualitas audio tinggi.",
+    "image": "spotify.png",
+    "download": "https://example.com/download/spotify-premium"
+  },
+  {
+    "name": "YouTube ReVanced",
+    "category": "Streaming VIP",
+    "description": "No ads, background play, premium features unlocked.",
+    "image": "youtube.png",
+    "download": "https://example.com/download/youtube-revanced"
+  },
+  {
+    "name": "PicsArt Gold",
+    "category": "Photo Editor VIP",
+    "description": "All effects & stickers unlocked, tanpa watermark.",
+    "image": "picsart.png",
+    "download": "https://example.com/download/picsart-gold"
+  }
+]
