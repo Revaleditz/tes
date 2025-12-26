@@ -1,7 +1,14 @@
 [
-  "cmV2YWxkaQ==",
-  "YWRtaW4=",
-  "dmlwdXNlcg==",
-  "eGFscmF0aA==",
-  "dGVzdGVy"
+  {
+    "username": "revaldi",
+    "password": "12345"
+  },
+  {
+    "username": "admin",
+    "password": "admin123"
+  },
+  {
+    "username": "vipuser",
+    "password": "vipvip"
+  }
 ]
