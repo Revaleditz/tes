@@ -1,14 +1,7 @@
 [
-  {
-    "username": "revaldi",
-    "password": "12345"
-  },
-  {
-    "username": "admin",
-    "password": "admin123"
-  },
-  {
-    "username": "vipuser",
-    "password": "vipvip"
-  }
+"revaldi",
+"admin",
+"vipuser",
+"xalrath",
+"tester"
 ]
