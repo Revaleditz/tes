@@ -404,5 +404,35 @@
       "support All Device"
     ],
     "download": "https://sfile.mobi/cWHTmIpqzEK"
+  },
+  {
+    "name": "LAYAR KACA 21",
+    "image": "layarkaca21.png",
+    "version": "v2.0",
+    "size": "6.56 MB",
+    "updated": "2 Januari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi nonton film.",
+    "features": [
+      "Premium",
+      "Tanpa Iklan",
+      "Support Banyak Device"
+    ],
+    "download": "https://sfile.mobi/uEuk8dnHdMj"
+  },
+  {
+    "name": "ANIMEIN",
+    "image": "animein.png",
+    "version": "v5.0.2",
+    "size": "56.05 MB",
+    "updated": "2 Januari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi nonton anime.",
+    "features": [
+      "Premium",
+      "Tanpa Iklan",
+      "Support Banyak Device"
+    ],
+    "download": "https://sfile.mobi/Z0hqszcV69L"
   }
 ]
