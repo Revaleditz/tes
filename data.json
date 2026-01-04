@@ -352,7 +352,7 @@
     "size": "24.80 MB",
     "updated": "15 Januari 2026",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi Baca Manwa.",
+    "description": "Aplikasi Baca Manhwa.",
     "features": [
       "No Ads",
       "No Login",
@@ -435,5 +435,21 @@
       "Support Banyak Device"
     ],
     "download": "https://sfile.mobi/Z0hqszcV69L"
+  },
+  {
+    "name": "DONGHUAFILM",
+    "image": "donghuafilm.png",
+    "version": "v1.4.0",
+    "size": "35.53 MB",
+    "updated": "5 Januari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "Aplikasi Nonton Donghua.",
+    "features": [
+      "Premium",
+      "Tanpa Iklan",
+      "Bypass Login",
+      "Support Banyak Device"
+    ],
+    "download": "https://sfile.mobi/H8UjiI2VLyq"
   }
 ]
