@@ -295,7 +295,7 @@
     "name": "CRUNCHYROLL",
     "image": "crunchyroll.png",
     "version": "v3.86.3",
-    "size": "54,73 MB",
+    "size": "54.73 MB",
     "updated": "26 Desember 2025",
     "category": "Streaming/Hiburan",
     "description": "Aplikasi untuk menonton anime.",
@@ -324,7 +324,7 @@
     "size": "22.40 MB",
     "updated": "25 Desember 2025",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi nonton siaran Tv.",
+    "description": "Aplikasi nonton siaran TV.",
     "features": [
       "No Ads"
     ],
@@ -337,7 +337,7 @@
     "size": "9.97 MB",
     "updated": "26 Desember 2025",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi nonton anime dan konten video lainnya,Dan juga ada siaran tv.",
+    "description": "Aplikasi nonton anime dan konten video lainnya, dan juga ada siaran TV.",
     "features": [
       "Premium",
       "Tanpa Iklan",
@@ -352,7 +352,7 @@
     "size": "24.80 MB",
     "updated": "15 Januari 2026",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi Baca Manhwa.",
+    "description": "Aplikasi baca manhwa.",
     "features": [
       "No Ads",
       "No Login",
@@ -386,7 +386,7 @@
     "features": [
       "Premium",
       "Tanpa Iklan",
-      "support All Device"
+      "Support All Device"
     ],
     "download": "https://sfile.mobi/Po790v5Fz9j"
   },
@@ -397,11 +397,11 @@
     "size": "95.07 MB",
     "updated": "2 Januari 2026",
     "category": "Photo Editor",
-    "description": "Aplikasi menggambar.",
+    "description": "Aplikasi menggambar digital dengan fitur lengkap.",
     "features": [
       "Premium",
       "Tanpa Iklan",
-      "support All Device"
+      "Support All Device"
     ],
     "download": "https://sfile.mobi/cWHTmIpqzEK"
   },
@@ -443,7 +443,7 @@
     "size": "35.53 MB",
     "updated": "5 Januari 2026",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi Nonton Donghua.",
+    "description": "Aplikasi nonton donghua.",
     "features": [
       "Premium",
       "Tanpa Iklan",
@@ -459,7 +459,7 @@
     "size": "60.84 MB",
     "updated": "6 Januari 2026",
     "category": "Games",
-    "description": "Aplikasi Booster Game.",
+    "description": "Aplikasi booster game.",
     "features": [
       "Premium",
       "Tanpa Iklan",
@@ -474,7 +474,7 @@
     "size": "14.85 MB",
     "updated": "6 Januari 2026",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi Nonton Donghua Dan Anime.",
+    "description": "Aplikasi nonton donghua dan anime.",
     "features": [
       "Premium",
       "Tanpa Login",
@@ -486,11 +486,11 @@
   {
     "name": "BACAKOMIK",
     "image": "bacakomik.png",
-    "version": "v1,5,0",
+    "version": "v1.5.0",
     "size": "21.72 MB",
     "updated": "6 Januari 2026",
     "category": "Streaming/Hiburan",
-    "description": "Aplikasi Baca komik.",
+    "description": "Aplikasi baca komik.",
     "features": [
       "No Ads",
       "No Login",
