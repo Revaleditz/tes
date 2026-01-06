@@ -442,8 +442,8 @@
     "version": "v1.4.0",
     "size": "35.53 MB",
     "updated": "5 Januari 2026",
-    "category": "Streaming/Hiburan",
-    "description": "Aplikasi nonton donghua.",
+    "category": "Video Editor",
+    "description": "Aplikasi Nonton Donghua.",
     "features": [
       "Premium",
       "Tanpa Iklan",
@@ -497,5 +497,20 @@
       "Support Banyak Device"
     ],
     "download": "https://sfile.mobi/55dI6Q1RAGw"
+  },
+  {
+    "name": "Ultra Motion",
+    "image": "um.png",
+    "version": "v7.0.0",
+    "size": "21.72 MB",
+    "updated": "6 Januari 2026",
+    "category": "",
+    "description": "Aplikasi Edit Video Dan Foto.",
+    "features": [
+      "No Ads",
+      "No Login",
+      "Support Banyak Device"
+    ],
+    "download": "https://sfile.mobi/mON9NmWGHsH"
   }
 ]
