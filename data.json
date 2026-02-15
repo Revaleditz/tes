@@ -499,5 +499,22 @@
       "Support Banyak Device"
     ],
     "download": "https://sfile.mobi/GeY7aYwvf04"
-  }
+  },
+  {
+    "name": "VIDIO",
+    "image": "vidio.png",
+    "version": "v7.1.9",
+    "size": "36.27 MB",
+    "updated": "16 Febuari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "aplikasi Nonton Film, Bola Dll.",
+    "features": [
+      "Film & Drama Update",
+      "Kualitas HD",
+      "UI Ringan",
+      "Tanpa VPN",
+      "Subtitle Indonesia"
+    ],
+    "download": "https://sfile.co/MHWl6AF6fTg"
+  },
 ]
