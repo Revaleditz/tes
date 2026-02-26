@@ -532,5 +532,20 @@
       "Subtitle Indonesia"
     ],
     "download": "https://sfile.co/6UFhceLpxja"
+  },
+  {
+    "name": "X-Design",
+    "image": "xdesign.png",
+    "version": "v1.10.0",
+    "size": "94 MB",
+    "updated": "27 Februari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "aplikasi Nonton Anime",
+    "features": [
+      "Background Remover",
+      "Mirip Wink",
+      "HD Photo"
+    ],
+    "download": "https://sfile.co/6UFhceLpxja"
   }
 ]
