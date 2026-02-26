@@ -547,5 +547,35 @@
       "HD Photo"
     ],
     "download": "https://sfile.co/pzYMfJujhuC"
+  },
+  {
+    "name": "KOMIKU+",
+    "image": "komiki+.png",
+    "version": "v2.0.0",
+    "size": "25 MB",
+    "updated": "23 Februari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "aplikasi Baca Manga atau Manhwa",
+    "features": [
+      "Kualitas HD",
+      "UI Ringan",
+      "Subtitle Indonesia"
+    ],
+    "download": "https://sfile.co/5dUG17jErfa"
+  },
+  {
+    "name": "Doujindesu",
+    "image": "Doujindesu.png",
+    "version": "v15.0.0",
+    "size": "57 MB",
+    "updated": "27 Februari 2026",
+    "category": "Streaming/Hiburan",
+    "description": "aplikasi Baca Manga Atau Manhwa,🗿",
+    "features": [
+      "Kualitas HD",
+      "UI Ringan",
+      "Subtitle Indonesia"
+    ],
+    "download": "https://sfile.co/5dUG17jErfa"
   }
 ]
