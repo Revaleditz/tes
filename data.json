@@ -615,5 +615,21 @@
     ],
     "download": "https://sfile.co/5dUG17jErfa",
     "creator": "Unknown"
+  },
+  {
+    "name": "FunDrama",
+    "image": "fundrama.png",
+    "version": "1.17",
+    "size": "57 MB",
+    "updated": "6 Maret 2026",
+    "category": "Streaming/Hiburan",
+    "description": "aplikasi Nonton Drama",
+    "features": [
+      "Kualitas HD",
+      "UI Ringan",
+      "Subtitle Indonesia"
+    ],
+    "download": "https://sfile.co/mSaXCpFPOD3",
+    "creator": "anzzmodss"
   }
 ]
