@@ -630,5 +630,22 @@
     ],
     "download": "https://sfile.co/mSaXCpFPOD3",
     "creator": "anzzmodss"
+  },
+  {
+    "name": "WEBTOON",
+    "image": "webtoon.png",
+    "version": "v3.9.5",
+    "size": "87 MB",
+    "updated": "3 Juli 2026",
+    "category": "Streaming/Hiburan",
+    "description":"Aplikasi baca manwha",
+    "features": [
+      "Premium sudah terbuka",
+      "Iklan dihapus",
+      "Fitur terbuka semua",
+      "Tanpa Login"
+    ],
+    "download": "https://sfile.co/M5R1wihJZnF",
+    "creator": "AnZzMods"
   }
 ]
