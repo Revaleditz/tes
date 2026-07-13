@@ -252,18 +252,19 @@
   {
     "name": "BSTASION",
     "image": "bstation.png",
-    "version": "v2.8.6",
-    "size": "65.70 MB",
-    "updated": "15 Desember 2025",
+    "version": "v3.82.0",
+    "size": "118 MB",
+    "updated": "13 Juli 2026",
     "category": "Streaming/Hiburan",
     "description": "Aplikasi nonton anime dan konten video lainnya.",
     "features": [
-      "Unlock All",
+      "Tanpa login",
       "Tanpa Iklan",
-      "Support Banyak Device"
+      "Support Banyak Device",
+      "Vip sudah terbuka"
     ],
-    "download": "https://sfile.mobi/YIMMbtu6MKH",
-    "creator": "Unknown"
+    "download": "https://sfile.co/OjhHdu70gku",
+    "creator": "HANXXY"
   },
   {
     "name": "CANVA",
